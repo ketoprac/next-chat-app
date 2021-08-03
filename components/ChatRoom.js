@@ -105,6 +105,7 @@ const Input = styled.input`
   bottom: 0;
   background-color: #16213e;
   width: 100%;
+  color: #fff;
 `;
 
 const SendButton = styled(Button)`
